@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huzey\\Desktop\\Quiz-Project\\Source Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83798ED2-7A31-465B-BBE6-262BA56D4AD0}|QuizApplication\\QuizApplication.csproj|c:\\users\\huzey\\desktop\\quiz-project\\source code\\quizapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83798ED2-7A31-465B-BBE6-262BA56D4AD0}|QuizApplication\\QuizApplication.csproj|solutionrelative:quizapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83798ED2-7A31-465B-BBE6-262BA56D4AD0}|QuizApplication\\QuizApplication.csproj|c:\\users\\huzey\\desktop\\quiz-project\\source code\\quizapplication\\quizapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83798ED2-7A31-465B-BBE6-262BA56D4AD0}|QuizApplication\\QuizApplication.csproj|solutionrelative:quizapplication\\quizapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83798ED2-7A31-465B-BBE6-262BA56D4AD0}|QuizApplication\\QuizApplication.csproj|c:\\users\\huzey\\desktop\\quiz-project\\source code\\quizapplication\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83798ED2-7A31-465B-BBE6-262BA56D4AD0}|QuizApplication\\QuizApplication.csproj|solutionrelative:quizapplication\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83798ED2-7A31-465B-BBE6-262BA56D4AD0}|QuizApplication\\QuizApplication.csproj|c:\\users\\huzey\\desktop\\quiz-project\\source code\\quizapplication\\quizapplication.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83798ED2-7A31-465B-BBE6-262BA56D4AD0}|QuizApplication\\QuizApplication.csproj|solutionrelative:quizapplication\\quizapplication.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83798ED2-7A31-465B-BBE6-262BA56D4AD0}|QuizApplication\\QuizApplication.csproj|c:\\users\\huzey\\desktop\\quiz-project\\source code\\quizapplication\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{83798ED2-7A31-465B-BBE6-262BA56D4AD0}|QuizApplication\\QuizApplication.csproj|solutionrelative:quizapplication\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83798ED2-7A31-465B-BBE6-262BA56D4AD0}|QuizApplication\\QuizApplication.csproj|c:\\users\\huzey\\desktop\\quiz-project\\source code\\quizapplication\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83798ED2-7A31-465B-BBE6-262BA56D4AD0}|QuizApplication\\QuizApplication.csproj|solutionrelative:quizapplication\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83798ED2-7A31-465B-BBE6-262BA56D4AD0}|QuizApplication\\QuizApplication.csproj|c:\\users\\huzey\\desktop\\quiz-project\\source code\\quizapplication\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{83798ED2-7A31-465B-BBE6-262BA56D4AD0}|QuizApplication\\QuizApplication.csproj|solutionrelative:quizapplication\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\huzey\\Desktop\\Quiz-Project\\Source Code\\QuizApplication\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "QuizApplication\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\huzey\\Desktop\\Quiz-Project\\Source Code\\QuizApplication\\Properties\\Settings.settings",
+              "RelativeToolTip": "QuizApplication\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-10-23T17:28:45.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\huzey\\Desktop\\Quiz-Project\\Source Code\\QuizApplication\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "QuizApplication\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\huzey\\Desktop\\Quiz-Project\\Source Code\\QuizApplication\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "QuizApplication\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:28:40.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\huzey\\Desktop\\Quiz-Project\\Source Code\\QuizApplication\\App.config",
+              "RelativeDocumentMoniker": "QuizApplication\\App.config",
+              "ToolTip": "C:\\Users\\huzey\\Desktop\\Quiz-Project\\Source Code\\QuizApplication\\App.config",
+              "RelativeToolTip": "QuizApplication\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-23T17:28:19.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuizApplication.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\huzey\\Desktop\\Quiz-Project\\Source Code\\QuizApplication\\QuizApplication.Designer.cs",
+              "RelativeDocumentMoniker": "QuizApplication\\QuizApplication.Designer.cs",
+              "ToolTip": "C:\\Users\\huzey\\Desktop\\Quiz-Project\\Source Code\\QuizApplication\\QuizApplication.Designer.cs",
+              "RelativeToolTip": "QuizApplication\\QuizApplication.Designer.cs",
+              "ViewState": "AgIAACwHAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:28:09.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Splash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\huzey\\Desktop\\Quiz-Project\\Source Code\\QuizApplication\\Splash.cs",
+              "RelativeDocumentMoniker": "QuizApplication\\Splash.cs",
+              "ToolTip": "C:\\Users\\huzey\\Desktop\\Quiz-Project\\Source Code\\QuizApplication\\Splash.cs [Design]",
+              "RelativeToolTip": "QuizApplication\\Splash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:27:49.078Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuizApplication.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\huzey\\Desktop\\Quiz-Project\\Source Code\\QuizApplication\\QuizApplication.cs",
+              "RelativeDocumentMoniker": "QuizApplication\\QuizApplication.cs",
+              "ToolTip": "C:\\Users\\huzey\\Desktop\\Quiz-Project\\Source Code\\QuizApplication\\QuizApplication.cs [Design]",
+              "RelativeToolTip": "QuizApplication\\QuizApplication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:27:43.658Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\huzey\\Desktop\\Quiz-Project\\Source Code\\QuizApplication\\Program.cs",
+              "RelativeDocumentMoniker": "QuizApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\huzey\\Desktop\\Quiz-Project\\Source Code\\QuizApplication\\Program.cs",
+              "RelativeToolTip": "QuizApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:27:36.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
